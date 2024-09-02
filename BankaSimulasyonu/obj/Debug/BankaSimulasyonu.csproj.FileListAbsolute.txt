@@ -1,0 +1,12 @@
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\bin\Debug\BankaSimulasyonu.exe.config
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\bin\Debug\BankaSimulasyonu.exe
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\bin\Debug\BankaSimulasyonu.pdb
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.BankaUYG.resources
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.Banka.resources
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.KayıtOL.resources
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.Properties.Resources.resources
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.exe
+C:\Users\Semiha\Desktop\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.pdb

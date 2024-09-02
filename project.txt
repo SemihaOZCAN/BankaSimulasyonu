@@ -1,0 +1,7 @@
+Banka Simülasyonu
+*******************************
+Banka Simülasyonu uygulaması, bir banka hesap yönetim sistemini simüle eden kapsamlı bir yazılımdır. 
+Kullanıcılar, hesap oluşturma, giriş yapma, para transferi yapma ve hesap hareketlerini görüntüleme gibi temel bankacılık işlemlerini gerçekleştirebilirler.
+ Giriş yapıldıktan sonra, kullanıcılar para transferi gerçekleştirebilir ve işlemler TblHareket tablosuna kaydedilir. Kullanıcı, transferlerin ayrıntılarını ve hesap hareketlerini görüntüleyebilir. 
+Uygulama, C# dili kullanılarak geliştirilmiş olup SQL Server veritabanı ile entegre edilmiştir ve Windows Forms arayüzü sunmaktadır. 
+Bu uygulama, kullanıcı dostu bir arayüz ile banka işlemlerini basit ve etkili bir şekilde yönetmeyi sağlar.
